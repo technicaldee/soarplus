@@ -100,7 +100,7 @@ export const metadata: Metadata = {
     apple: "/apple-icon.png",
   },
   manifest: "/manifest.json",
-    generator: 'v0.app'
+  generator: 'v0.app',
 }
 
 export default function RootLayout({
